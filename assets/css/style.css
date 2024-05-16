@@ -1,0 +1,13 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caixa01{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
